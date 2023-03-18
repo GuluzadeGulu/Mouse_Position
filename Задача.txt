@@ -1,0 +1,3 @@
+ENG: Display the mouse coordinates relative to the block at the moment the mouse cursor moves inside the block. Output coordinates under the block.
+
+RU: Выведите коордитаты мыши относительно блока в момент движения курсора мыши внутри блока. Координаты выводить под блоком.
